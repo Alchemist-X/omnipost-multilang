@@ -1,0 +1,90 @@
+[
+  {
+    "id": "c001",
+    "platform": "x",
+    "author": "techuser_jp",
+    "lang": "ja",
+    "text": "これは本当に素晴らしいツールですね！どうやって使えばいいですか？",
+    "followers": 12500,
+    "verified": false,
+    "timestamp": "2026-06-07T08:15:00Z",
+    "type": "question"
+  },
+  {
+    "id": "c002",
+    "platform": "weibo",
+    "author": "用户_王明",
+    "lang": "zh",
+    "text": "这个功能根本不能用！浪费了我很多时间。",
+    "followers": 3200,
+    "verified": false,
+    "timestamp": "2026-06-07T07:30:00Z",
+    "type": "complaint"
+  },
+  {
+    "id": "c003",
+    "platform": "linkedin",
+    "author": "SarahCTO",
+    "lang": "en",
+    "text": "Impressive tool! How does it handle rate limiting across platforms?",
+    "followers": 45000,
+    "verified": true,
+    "timestamp": "2026-06-07T09:00:00Z",
+    "type": "question"
+  },
+  {
+    "id": "c004",
+    "platform": "instagram",
+    "author": "maria_es",
+    "lang": "es",
+    "text": "¡Me encanta esta herramienta! Definitivamente la voy a recomendar a mis seguidores.",
+    "followers": 8900,
+    "verified": false,
+    "timestamp": "2026-06-06T22:45:00Z",
+    "type": "praise"
+  },
+  {
+    "id": "c005",
+    "platform": "x",
+    "author": "dev_skeptic",
+    "lang": "en",
+    "text": "Looks interesting but I'm not sure about the security implications. Do you support 2FA?",
+    "followers": 1200,
+    "verified": false,
+    "timestamp": "2026-06-07T06:00:00Z",
+    "type": "question"
+  },
+  {
+    "id": "c006",
+    "platform": "linkedin",
+    "author": "GlobalVCFirm",
+    "lang": "en",
+    "text": "This is exactly what enterprise teams need. We'd love to discuss partnership opportunities.",
+    "followers": 250000,
+    "verified": true,
+    "timestamp": "2026-06-07T10:30:00Z",
+    "type": "praise"
+  },
+  {
+    "id": "c007",
+    "platform": "weibo",
+    "author": "程序员小李",
+    "lang": "zh",
+    "text": "API文档在哪里？我想集成到我们的系统中。",
+    "followers": 5600,
+    "verified": false,
+    "timestamp": "2026-06-07T05:15:00Z",
+    "type": "question"
+  },
+  {
+    "id": "c008",
+    "platform": "instagram",
+    "author": "content_creator_fr",
+    "lang": "fr",
+    "text": "Super outil ! Mais la traduction automatique n'est pas toujours parfaite pour le français.",
+    "followers": 18000,
+    "verified": false,
+    "timestamp": "2026-06-06T20:00:00Z",
+    "type": "complaint"
+  }
+]
